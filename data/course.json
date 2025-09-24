@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ],
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ]
+  ],
+  "legacy_uid": "4111618b-4eef-3c61-b792-4d5e929b0a3a",
+  "instructors": {
+    "content": [
+      "95cfcb22-6e34-0f5e-6f0a-0947d35a8b07",
+      "9a36cd2e-8483-cde3-8d81-332ad0d0c860",
+      "4c54ab4d-2a45-01da-4a5e-e8c30c15a254"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0c493b07-a929-e1c4-5eb9-6460cef62189",
+    "website": "17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011"
+  },
+  "course_title": "Cyberpolitics in International Relations: Theory, Methods, Policy",
+  "course_description": "This course focuses on cyberspace and its implications for private and public, sub-national, national, and international actors and entities.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.448",
+  "primary_course_number": "17.447",
+  "course_image_thumbnail": {
+    "content": "3e5191b2-b3c2-4eb2-9895-702dfe010b88",
+    "website": "17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011"
+  },
+  "learning_resource_types": [
+    "Exams"
+  ],
+  "site_uid": "3fd362f9-9bf5-4718-9a67-a8fb42b22e1f",
+  "site_short_id": "17.447-fall-2011",
+  "site_url_path": "courses/17-447-cyberpolitics-in-international-relations-theory-methods-policy-fall-2011",
+  "title": "Course Metadata"
+}
